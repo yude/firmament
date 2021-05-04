@@ -1,4 +1,4 @@
-# firmament: 🌄 Challenge of building operating system (reffering to MikanOS)
+# firmament: 🌄 Challenge of building operating system (referring to MikanOS)
 ## Setup
 1. Build container on Visual Studio Code.
 1. Run: `.devcontainer/init.sh` (on `/workspaces/firmament`)
@@ -12,7 +12,8 @@
 * Run: `~/run_qemu.sh`
 #### Configuring VcXsrv
 * You can refer to my `config.xlaunch` file (placed on .devcontainer/config.xlaunch).
-* All you need is to install VcXsrv and open `config.xlaunch` on Windows.
+* All you need is to install VcXsrv and open `config.xlaunch` on Windows.  
+    (You can use `.devcontainer/config.xlaunch` with no edit.)
 * Please make sure allow VcXsrv connections via both private & public network in Windows Defender Firewall.
 ## License
 ### .devcontainer/
