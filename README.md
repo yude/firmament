@@ -1,4 +1,5 @@
-# firmament: 🌄 Challenge of building operating system (referring to MikanOS)
+# firmament: 🌄 Challenge of building operating system
+This project is based on [MikanOS](https://github.com/uchan-nos/mikanos).
 ## Setup
 1. Build container on Visual Studio Code.
 1. Run: `.devcontainer/init.sh` (on `/workspaces/firmament`)
