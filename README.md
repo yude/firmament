@@ -1,7 +1,8 @@
 # firmament: 🌄 Challenge of building operating system (reffering to MikanOS)
 ## Setup
 1. Build container on Visual Studio Code.
-2. Run: `cd ~/edk2; source edksetup.sh`
+1. Run: `.devcontainer/init.sh` (on `/workspaces/firmament`)
+1. Run: `cd ~/edk2; source edksetup.sh`
 ## Utils
 ### Build
 * Run: `cd ~/edk2; build`
